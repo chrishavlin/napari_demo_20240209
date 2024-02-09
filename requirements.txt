@@ -1,0 +1,5 @@
+yt[full]
+napari[pyQT5]
+yt-napari
+napari-simpleitk-image-processing
+jupyterlab
